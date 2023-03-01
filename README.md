@@ -13,4 +13,4 @@
 
 ### Practice
 - [hsd_clone](https://github.com/nirgo0930/hsd_clone) : Making a copy of HanSot's homepage
-- [Webkit](https://github.com/nirgo0930/WebKit) : Results of exercises during the Webkit curriculum
+- [Webkit](https://github.com/nirgo0930/WebKit/tree/master/Front) : Results of exercises during the Webkit curriculum
