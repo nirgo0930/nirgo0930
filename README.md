@@ -9,6 +9,7 @@
 
 ### Project
 - [Stop Waiting](https://github.com/nirgo0930/StopWaiting-Android-App-) : Event reservation waiting application using Android and Wear OS
+- [Effusio](https://github.com/nirgo0930/Effusio_Final) : A flat-former game that extracts and images faces from photos entered by users using Unity and Python and uses them as faces of characters
 
 ### Practice
 - [hsd_clone](https://github.com/nirgo0930/hsd_clone) : Making a copy of HanSot's homepage
