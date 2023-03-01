@@ -9,3 +9,7 @@
 
 ### Project
 - [Stop Waiting](https://github.com/nirgo0930/StopWaiting-Android-App-) : Event reservation waiting application using Android and Wear OS
+
+### Practice
+- [hsd_clone](https://github.com/nirgo0930/hsd_clone) : Making a copy of HanSot's homepage
+- [Webkit](https://github.com/nirgo0930/WebKit) : Results of exercises during the Webkit curriculum
